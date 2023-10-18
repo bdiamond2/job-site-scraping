@@ -1,63 +1,81 @@
 url,job_id,title,location,reg_temp,dept,start_dt,end_dt,salary_low,salary_high,career_interest
-https://careers.umich.edu/job_detail/239806/,239806,OS Programmer Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS AcadIT Tech Svc/Engage,9/21/2023,10/05/2023,,,Information Technology
-https://careers.umich.edu/job_detail/238453/,238453,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Int Med-Hematology/Oncology,8/31/2023,9/30/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/206110/,206110,Research Computer Scientist,Ann Arbor Campus,Regular,MM Urology,6/01/2023,9/30/2023,,,Research
-https://careers.umich.edu/job_detail/239344/,239344,Director of Data Science Practice,Ann Arbor Campus,Regular,ITS DSP Data Science Practice,9/11/2023,10/26/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239865/,239865,Clinical Info Analyst Inter,Michigan Medicine - Ann Arbor,Regular,MM Nsg OH Prg Nsg Excellence,9/21/2023,9/28/2023,,,Healthcare Admin & Support
-https://careers.umich.edu/job_detail/239885/,239885,Research Area Specialist Sr - PRISMS Plasticity,Ann Arbor Campus,Regular,Materials Science & Engin.,9/22/2023,9/29/2023,"$80,000.00","$90,000.00",Research
-https://careers.umich.edu/job_detail/239591/,239591,App Programmer/Analyst Sr,Ann Arbor Campus,Regular,ITS SysOps Web Hosting,9/15/2023,10/08/2023,"$85,000.00","$92,000.00",Information Technology
-https://careers.umich.edu/job_detail/239742/,239742,Storage Engineer Senior,Michigan Medicine - Ann Arbor,Regular,MM HITS EI Storage Svcs,9/20/2023,10/04/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239530/,239530,Artificial Intelligence Research Fellow (Malik),Flint Campus,Regular,Flint Computer Science,9/15/2023,10/17/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/229150/,229150,Bioinformatics-Computational Biologist Senior,Ann Arbor Campus,Regular,Biostatistics Department,9/11/2023,9/30/2023,"$84,739.00","$104,678.00",Research
-https://careers.umich.edu/job_detail/239750/,239750,Postdoc Fellow in Great Lakes Climate Variability Research Cooperative Institute for Great Lakes Research,Ann Arbor Campus,Regular,SEAS CIGLR,9/19/2023,11/14/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/239065/,239065,Vulnerability Analyst Senior,Michigan Medicine - Ann Arbor,Regular,MM HITS IA Cybersecur Risk Mgt,9/15/2023,9/29/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239559/,239559,End User Computing Specialist Associate,Michigan Medicine - Ann Arbor,Regular,MM HITS BusIT Customer Service,9/20/2023,9/27/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239533/,239533,CRM Systems Analyst Intermediate,Dearborn Campus,Regular,Dbn Information Technology Svc,9/13/2023,9/29/2023,"$63,000.00","$70,000.00",Information Technology
-https://careers.umich.edu/job_detail/229901/,229901,Reimbursement Analyst Senior,Michigan Medicine - Ann Arbor,Regular,MM Fin Srvcs Reimb,5/09/2023 -,,,,Finance
-https://careers.umich.edu/job_detail/237502/,237502,LEO Lecturer III,Ann Arbor Campus,Regular,MM Comp Med and Bioinformatics,7/27/2023,9/30/2023,,,LEO - Lecturers
-https://careers.umich.edu/job_detail/239765/,239765,RESEARCH ASST I (TEMP) - Data Science,Flint Campus,Temporary,Flint IDEAS,9/21/2023,1/13/2024,$15.00,$15.00,Temporary Job Opening
-https://careers.umich.edu/job_detail/229396/,229396,Data Security Analyst,Ann Arbor Campus,Regular,Biostatistics Department,9/11/2023,9/30/2023,"$89,599.00","$110,681.00",Information Technology
-https://careers.umich.edu/job_detail/233520/,233520,Bioinfo-Comput Biologist Inter,Ann Arbor Campus,Regular,MM Comp Med and Bioinformatics,9/05/2023,10/31/2023,,,Research
-https://careers.umich.edu/job_detail/239213/,239213,Senior Web Developer,Ann Arbor Campus,Regular,ITS Admin Marketing & Comms,9/06/2023,10/04/2023,"$75,000.00","$90,000.00",Information Technology
-https://careers.umich.edu/job_detail/233405/,233405,App Programmer/Analyst Intermediate,Ann Arbor Campus,Regular,MM MICHR - Operations,9/14/2023,9/28/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239412/,239412,Telecom Analyst Intermediate,Ann Arbor Campus,Regular,ITS Infra Net Dir of Bus,9/19/2023,9/26/2023,"$41,620.00","$66,065.00",Information Technology
-https://careers.umich.edu/job_detail/239947/,239947,UMSI MADS Peer Tutor,Ann Arbor Campus,Temporary,School of Information,9/22/2023,10/06/2023,$25.00 -,,Temporary Job Opening
-https://careers.umich.edu/job_detail/231143/,231143,Research App Programmer/Analyst,Ann Arbor Campus,Regular,Biostatistics Department,9/11/2023,9/30/2023,"$87,324.00","$107,871.00",Information Technology
-https://careers.umich.edu/job_detail/239849/,239849,Business Intelligence Analyst Senior / Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS EDIS Dpt Info Delivery,9/22/2023,10/06/2023,,,Administration;Information Technology
-https://careers.umich.edu/job_detail/238762/,238762,Financial or Bus Analyst Inter,Ann Arbor Campus,Regular,MM Surgery Department,8/23/2023,10/22/2023,,,Finance
-https://careers.umich.edu/job_detail/239686/,239686,Business Systems Analyst Intermediate,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/18/2023,10/02/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239185/,239185,Clinical Info Analyst Ld,Ann Arbor Campus,Regular,MM Cardiac Surgery,9/06/2023,9/30/2023,,,Healthcare Admin & Support
-https://careers.umich.edu/job_detail/239791/,239791,Clinical Info Analyst Sr / Inter,Michigan Medicine - Ann Arbor,Regular,MM Quality - Quality Reporting,9/20/2023,10/04/2023,"$58,540.00","$102,610.00",Healthcare Admin & Support
-https://careers.umich.edu/job_detail/238883/,238883,HPC Systems Administrator Senior,Ann Arbor Campus,Regular,ITS ARC Advanced Research Comp,8/31/2023,10/15/2023,"$84,153.00","$102,854.00",Information Technology
-https://careers.umich.edu/job_detail/239538/,239538,Research Area Specialist Inter,Ann Arbor Campus,Regular,LSA Psychology,9/15/2023,9/29/2023,"$52,300.00","$65,400.00",Research
-https://careers.umich.edu/job_detail/239492/,239492,Clin Bus Analyst Inter,Ann Arbor Campus,Regular,MM Pathology Department,9/13/2023,9/27/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239173/,239173,Technical Content Designer,Ann Arbor Campus,Regular,School of Information,9/06/2023,9/27/2023,"$60,000.00","$70,000.00",Human Resources
-https://careers.umich.edu/job_detail/239949/,239949,Assistant Research Scientist in Atmospheric Science,Ann Arbor Campus,Regular,SEAS CIGLR,9/22/2023,9/29/2023,,,Primary
-https://careers.umich.edu/job_detail/239799/,239799,Training Specialist Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS BusIT LDD Wolverine,9/21/2023,10/05/2023,,,Human Resources;Information Technology
-https://careers.umich.edu/job_detail/239518/,239518,Data Project Assistant,Ann Arbor Campus,Regular,ICPSR - Project Management and,9/14/2023,9/28/2023,"$47,500.00","$53,000.00",Research
-https://careers.umich.edu/job_detail/236884/,236884,Imaging Coordinator,Ann Arbor Campus,Regular,MM Psychiatry-Neuropsychology,7/12/2023,9/30/2023,,,Administration
+https://careers.umich.edu/job_detail/240653/,240653,Customer Help Desk Technician Associate,Flint Campus,Regular,Flint ITS,10/17/2023,10/31/2023,"$37,800.00","$47,200.00",Information Technology
+https://careers.umich.edu/job_detail/233695/,233695,MLabs Business Systems Analyst/Connectivity Team Lead,Michigan Medicine - Ann Arbor,Regular,MM Path MLabs Division,10/06/2023,10/20/2023,,,Information Technology;Pathology/Laboratory Services
+https://careers.umich.edu/job_detail/240413/,240413,Online Learning Developer Senior,Ann Arbor Campus,Regular,Center for Academic Innovation,10/09/2023,11/08/2023,"$85,000.00","$100,000.00",Information Technology
 https://careers.umich.edu/job_detail/237475/,237475,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Comp Med and Bioinformatics,9/05/2023,10/31/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/239479/,239479,Geographic Info System (GIS) Technician Intermediate/Senior,Ann Arbor Campus,Regular,Facilities & Operations - IS,9/13/2023,9/27/2023,"$65,000.00","$85,000.00",Engineering & Architecture;Facilities Operations;Information Technology
-https://careers.umich.edu/job_detail/239966/,239966,Applications Programmer Intermediate (TERM-LIMITED),Ann Arbor Campus,Regular,MM DLHS Administration,9/25/2023,10/09/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239794/,239794,IT Instructional Designer,Michigan Medicine - Ann Arbor,Regular,MM HITS BusIT LDD Wolverine,9/21/2023,10/05/2023,,,Human Resources;Information Technology
-https://careers.umich.edu/job_detail/235521/,235521,RESEARCH FELLOW,Ann Arbor Campus,Regular,Life Sciences Institute-Admin,6/08/2023,11/05/2023,"$56,484.00 -",,Research Fellows
+https://careers.umich.edu/job_detail/240568/,240568,Business Intelligence Analyst Intermediate,Ann Arbor Campus,Regular,Shared Services Center,10/10/2023,10/24/2023,"$64,850.00","$77,900.00",Administration
+https://careers.umich.edu/job_detail/235406/,235406,Senior / Intermediate Statistician,Ann Arbor Campus,Regular,MM IHPI 231135,10/16/2023,12/15/2023,,,Research
+https://careers.umich.edu/job_detail/239750/,239750,Postdoc Fellow in Great Lakes Climate Variability Research Cooperative Institute for Great Lakes Research,Ann Arbor Campus,Regular,SEAS CIGLR,9/19/2023,11/14/2023,,,Research Fellows
+https://careers.umich.edu/job_detail/239495/,239495,Research Analytics Facilitator,Ann Arbor Campus,Regular,MM Precision Health Initiative,10/11/2023,11/08/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240777/,240777,Research Intelligence Analyst,Ann Arbor Campus,Regular,UMOR Office of VP for Research,10/16/2023,11/06/2023,"$80,000.00","$95,000.00",Administration
+https://careers.umich.edu/job_detail/240827/,240827,Web Designer Apprenticeship,Ann Arbor Campus,Regular,LSA Dean: TS Web&App Dev Svcs,10/16/2023,10/30/2023,"$47,600.00","$51,500.00",Information Technology
+https://careers.umich.edu/job_detail/240414/,240414,Business Systems Analyst Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS ETS InfraSvcs-EDEM,10/06/2023,10/20/2023,,,Information Technology
+https://careers.umich.edu/job_detail/236383/,236383,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Biomedical Engineering - MS,10/10/2023,12/09/2023,,,Research Fellows
+https://careers.umich.edu/job_detail/240396/,240396,Research Technology Operations Manager,Ann Arbor Campus,Regular,ITS ARC Advanced Research Comp,10/17/2023,10/31/2023,"$100,000.00","$115,000.00",Information Technology
+https://careers.umich.edu/job_detail/240384/,240384,Clinical Data Abstractor,Ann Arbor Campus,Temporary,MM Int Med-Hospital Medicine,10/04/2023,10/18/2023,,,Temporary Job Opening
+https://careers.umich.edu/job_detail/239916/,239916,Data Analyst,Ann Arbor Campus,Regular,Office of Budget & Planning,9/27/2023,10/22/2023,"$75,000.00","$95,000.00",Administration;Finance;Research
+https://careers.umich.edu/job_detail/231143/,231143,Research App Programmer/Analyst,Ann Arbor Campus,Regular,Biostatistics Department,10/02/2023,10/31/2023,"$87,324.00","$107,871.00",Information Technology
+https://careers.umich.edu/job_detail/239201/,239201,Research Computing Consultant,Ann Arbor Campus,Regular,ROSS SCH Research Support,9/25/2023,10/22/2023,"$74,000.00","$82,000.00",Research
 https://careers.umich.edu/job_detail/236218/,236218,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Department of Radiology,7/24/2023,10/22/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/239671/,239671,Business Systems Analyst Senior / Intermediate,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/20/2023,10/04/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239201/,239201,Research Computing Consultant,Ann Arbor Campus,Regular,ROSS SCH Research Support,9/25/2023,10/01/2023,"$74,000.00","$82,000.00",Research
-https://careers.umich.edu/job_detail/239647/,239647,Software Life Cycle Analyst Associate,Ann Arbor Campus,Regular,ITS SS Software Services,9/18/2023,10/02/2023,"$42,000.00","$46,000.00",Information Technology
-https://careers.umich.edu/job_detail/237067/,237067,Clinical Info Analyst Sr/ Inter,Michigan Medicine - Ann Arbor,Regular,MM Experience Analytics & Insi,9/25/2023,10/10/2023,,,Healthcare Admin & Support
-https://careers.umich.edu/job_detail/239751/,239751,Business Systems Analyst Senior / Intermediate,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/21/2023,10/05/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239756/,239756,MiChart Research Application Coordinator,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/21/2023,10/05/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239495/,239495,Research Analytics Facilitator,Ann Arbor Campus,Regular,MM Precision Health Initiative,9/13/2023,10/04/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239645/,239645,Claims Data Analyst Sr/Inter,Ann Arbor Campus,Regular,MM Family Medicine,9/19/2023,9/26/2023,,,Research
-https://careers.umich.edu/job_detail/229148/,229148,Bioinformatics-Computational Biologist Lead/Senior,Ann Arbor Campus,Regular,Biostatistics Department,9/11/2023,9/30/2023,"$98,273.00","$121,396.00",Research
-https://careers.umich.edu/job_detail/239820/,239820,Financial or Bus Analyst Inter,Michigan Medicine - Ann Arbor,Regular,MM Financial Srvcs,9/21/2023,10/21/2023,,,Finance
+https://careers.umich.edu/job_detail/240522/,240522,Manager of Automation Services,Ann Arbor Campus,Regular,Shared Services Center,10/09/2023,10/23/2023,"$109,930.00","$137,000.00",Information Technology
+https://careers.umich.edu/job_detail/240698/,240698,Database Analyst/Prgm Inter,Ann Arbor Campus,Regular,MM Int Med-General Medicine,10/18/2023,11/01/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240010/,240010,MADC Imaging Research Assistant,Ann Arbor Campus,Regular,MM Neurology Department,10/11/2023,11/30/2023,,,Research
+https://careers.umich.edu/job_detail/229148/,229148,Bioinformatics-Computational Biologist Lead/Senior,Ann Arbor Campus,Regular,Biostatistics Department,10/02/2023,10/31/2023,"$98,273.00","$121,396.00",Research
+https://careers.umich.edu/job_detail/240272/,240272,HEALTH INFORMATION MANAGEMENT ANALYST II - COMPLIANCE AND AUDITING,Michigan Medicine - Ann Arbor,Regular,MM Rev Cycle (PTO),10/04/2023,10/18/2023,,,Healthcare Admin & Support
+https://careers.umich.edu/job_detail/240474/,240474,Data Assistant,Ann Arbor Campus,Temporary,Wolverine Pathways,10/09/2023,10/28/2023,,,Temporary Job Opening
+https://careers.umich.edu/job_detail/229901/,229901,Reimbursement Analyst Senior,Michigan Medicine - Ann Arbor,Regular,MM Fin Srvcs Reimb,5/09/2023 -,,,,Finance
+https://careers.umich.edu/job_detail/240758/,240758,Applications Programmer Senior,Ann Arbor Campus,Regular,Population Studies Center,10/13/2023,10/27/2023,"$82,000.00","$90,000.00",Information Technology
+https://careers.umich.edu/job_detail/240327/,240327,Applications Programming Manager,Ann Arbor Campus,Regular,LSA Dean: TS Web&App Dev Svcs,10/04/2023,10/25/2023,"$107,000.00","$130,000.00",Information Technology
+https://careers.umich.edu/job_detail/239929/,239929,Data Entry Operator Intermediate (Hybrid),Flint Campus,Regular,Flint Admissions & Recruitment,10/13/2023,10/27/2023,"$31,200.00","$39,000.00",Administration
+https://careers.umich.edu/job_detail/239957/,239957,Administrative Data Specialist-Physician Asst (Hybrid),Flint Campus,Regular,Flint Physician Asst Program,9/28/2023,10/27/2023,"$45,700.00","$57,100.00",Administration
+https://careers.umich.edu/job_detail/240635/,240635,Business Systems Analyst Inter,Michigan Medicine - Ann Arbor,Regular,MM Rad IT Services,10/11/2023,10/18/2023,,,Information Technology;Radiology
+https://careers.umich.edu/job_detail/240083/,240083,Scholarship Database Manager,Ann Arbor Campus,Regular,LSA UG: Scholarships,9/29/2023,10/20/2023,"$48,000.00","$58,000.00",Administration
+https://careers.umich.edu/job_detail/240579/,240579,SIMPL Backend Developer,Ann Arbor Campus,Regular,MM GSA - Administrtn (GSA/ADM),10/11/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240371/,240371,Data Architect Senior / Inter,Michigan Medicine - Ann Arbor,Regular,MM HITS MDC MI DATA COLLAB,10/04/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/235705/,235705,App Programmer Analyst Intermediate,Ann Arbor Campus,Regular,MM Anesthesiology Department,10/05/2023,11/04/2023,,,Information Technology
+https://careers.umich.edu/job_detail/233427/,233427,Research Technician Associate,Ann Arbor Campus,Regular,LSA Psychology,10/05/2023,10/26/2023,"$31,200.00","$33,000.00",Research
+https://careers.umich.edu/job_detail/236884/,236884,Imaging Coordinator,Ann Arbor Campus,Regular,MM Psychiatry-Neuropsychology,7/12/2023,10/31/2023,,,Administration
+https://careers.umich.edu/job_detail/239492/,239492,Clin Bus Analyst Inter,Ann Arbor Campus,Regular,MM Pathology Department,9/13/2023,11/12/2023,,,Information Technology
+https://careers.umich.edu/job_detail/233520/,233520,Bioinfo-Comput Biologist Inter,Ann Arbor Campus,Regular,MM Comp Med and Bioinformatics,9/05/2023,10/31/2023,,,Research
+https://careers.umich.edu/job_detail/240421/,240421,Application Coordinator (Senior/Intermediate),Michigan Medicine - Ann Arbor,Regular,MM HITS CRC Cad/ClinSec/PtEng,10/06/2023,10/20/2023,,,Information Technology
+https://careers.umich.edu/job_detail/229150/,229150,Bioinformatics-Computational Biologist Senior,Ann Arbor Campus,Regular,Biostatistics Department,10/02/2023,10/31/2023,"$84,739.00","$104,678.00",Research
+https://careers.umich.edu/job_detail/240808/,240808,Desktop Support Apprenticeship,Ann Arbor Campus,Regular,"LSA Dean: TS Res,Comp&InfrSvcs",10/16/2023,10/30/2023,"$40,000.00","$44,000.00",Information Technology
+https://careers.umich.edu/job_detail/240534/,240534,Assistant Director of Customer Relationship Management (CRM) and Ancillary Enterprise Systems,Ann Arbor Campus,Regular,ITS EAS Enterprise App Svcs,10/10/2023,10/31/2023,"$130,000.00","$145,000.00",Information Technology
 https://careers.umich.edu/job_detail/238510/,238510,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Psychiatry-Neuropsychology,8/17/2023,10/31/2023,,,Research Fellows
-https://careers.umich.edu/job_detail/239745/,239745,Software Engineer Integrations,Ann Arbor Campus,Regular,SL Technology Solutions,9/19/2023,10/03/2023,"$92,500.00","$100,000.00",Information Technology
-https://careers.umich.edu/job_detail/235800/,235800,Tutor II (STUDENT/WORKSTUDY),Flint Campus,Temporary,Flint Student Success Center,6/19/2023,10/04/2023,$13.00,$13.00,Temporary Job Opening
-https://careers.umich.edu/job_detail/239771/,239771,Windows Systems Engineer,Michigan Medicine - Ann Arbor,Regular,MM HITS EI Windows Services,9/21/2023,10/05/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239659/,239659,Business Systems Analyst Intermediate,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/18/2023,10/02/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239192/,239192,Data Manager,Ann Arbor Campus,Regular,MM Mary H Weiser Food Allergy,9/07/2023,10/07/2023,"$58,480.00","$93,560.00",Research
+https://careers.umich.edu/job_detail/240533/,240533,Business Systems Analyst (TEMP),Ann Arbor Campus,Temporary,School of Information,10/09/2023,10/19/2023,$28.00,$33.00,Temporary Job Opening
+https://careers.umich.edu/job_detail/240369/,240369,Research Applications Specialist,Ann Arbor Campus,Regular,ITS ARC Advanced Research Comp,10/04/2023,10/18/2023,"$70,000.00","$95,000.00",Information Technology
+https://careers.umich.edu/job_detail/240370/,240370,ARC Help Desk Support Specialist,Ann Arbor Campus,Regular,ITS ARC Advanced Research Comp,10/04/2023,10/18/2023,"$45,000.00","$50,000.00",Information Technology
+https://careers.umich.edu/job_detail/240279/,240279,Data Integration Specialist,Ann Arbor Campus,Regular,Facilities & Operations - IS,10/04/2023,10/18/2023,"$80,000.00","$110,000.00",Information Technology
+https://careers.umich.edu/job_detail/239765/,239765,RESEARCH ASST I (TEMP) - Data Science,Flint Campus,Temporary,Flint IDEAS,9/21/2023,1/13/2024,$15.00,$15.00,Temporary Job Opening
+https://careers.umich.edu/job_detail/239996/,239996,Financial or Bus Analyst Sr/Inter/Assoc,Michigan Medicine - Ann Arbor,Regular,MM Financial Srvcs,9/25/2023,10/25/2023,,,Finance
+https://careers.umich.edu/job_detail/240934/,240934,Managed Care Operations Analyst,Michigan Medicine - Ann Arbor,Regular,MM Managed Care & Contracting,10/18/2023,10/25/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240909/,240909,BI Analyst Senior / Intermediate,Ann Arbor Campus,Regular,MM Executive Administration,10/18/2023,11/17/2023,,,Administration
+https://careers.umich.edu/job_detail/233405/,233405,App Programmer/Analyst Intermediate,Ann Arbor Campus,Regular,MM MICHR - Operations,9/14/2023,10/28/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240100/,240100,Digital Media Specialist / Content Creator - Remote,Ann Arbor Campus,Regular,MM Health Communications-CC,10/11/2023,11/08/2023,"$60,000.00","$70,000.00",Information Technology
+https://careers.umich.edu/job_detail/239820/,239820,Financial or Bus Analyst Inter,Michigan Medicine - Ann Arbor,Regular,MM Financial Srvcs,9/21/2023,10/21/2023,,,Finance
+https://careers.umich.edu/job_detail/240251/,240251,Desktop Support Specialist Senior/Inter/Assoc,Michigan Medicine - Ann Arbor,Regular,MM HITS ETS DeviceOps-MCD,10/04/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240430/,240430,Business Systems Analyst Senior / Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS AcadIT SW Deliv Admin,10/06/2023,10/20/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240663/,240663,Senior Security Analyst (hybrid/remote),Ann Arbor Campus,Regular,ICPSR - Computing and Network,10/16/2023,11/13/2023,"$85,000.00","$110,000.00",Information Technology
+https://careers.umich.edu/job_detail/240718/,240718,RESEARCH FELLOW,Ann Arbor Campus,Regular,MM Comp Med and Bioinformatics,10/12/2023,12/28/2023,,,Research Fellows
+https://careers.umich.edu/job_detail/229396/,229396,Data Security Analyst,Ann Arbor Campus,Regular,Biostatistics Department,10/02/2023,10/31/2023,"$89,599.00","$110,681.00",Information Technology
 https://careers.umich.edu/job_detail/239796/,239796,Business Systems Analyst Inter,Michigan Medicine - Ann Arbor,Regular,MM Rev Cycle (PTO),9/21/2023,10/19/2023,,,Information Technology
-https://careers.umich.edu/job_detail/239652/,239652,MiChart Research Application Coordinator (Sr / Inter),Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,9/19/2023,10/03/2023,,,Information Technology
-https://careers.umich.edu/job_detail/236062/,236062,Bioinformatician-Computational Biologist Assoc/Inter - Snitkin Lab,Ann Arbor Campus,Regular,MM Microbiology and Immunology,8/12/2023,10/11/2023,,,Research
+https://careers.umich.edu/job_detail/234078/,234078,Research Laboratory Manager,Ann Arbor Campus,Regular,MM Int Med-Gastroenterology,9/29/2023,12/28/2023,,,Research
+https://careers.umich.edu/job_detail/240726/,240726,Data Analyst Senior,Ann Arbor Campus,Regular,MM Obstetrics & Gynecology Dpt,10/18/2023,11/17/2023,,,Healthcare Admin & Support
+https://careers.umich.edu/job_detail/239591/,239591,App Programmer/Analyst Sr,Ann Arbor Campus,Regular,ITS SysOps Web Hosting,10/18/2023,10/20/2023,"$85,000.00","$92,000.00",Information Technology
+https://careers.umich.edu/job_detail/239686/,239686,Business Systems Analyst Intermediate,Michigan Medicine - Ann Arbor,Regular,HITS AcadIT Application Servic,10/16/2023,10/23/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240310/,240310,Desktop Support Specialist Associate,Michigan Medicine - Ann Arbor,Regular,MM HITS ETS DeviceOps-MCD,10/04/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240341/,240341,Network Architect Senior,Michigan Medicine - Ann Arbor,Regular,MM HITS EI Netwrk & Comm Suppt,10/04/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240799/,240799,App Programmer/Analyst Ld,Michigan Medicine - Ann Arbor,Regular,MM Pathology Informatics,10/16/2023,10/30/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240416/,240416,Research Data Analyst,Ann Arbor Campus,Regular,MM Int Med-Hematology/Oncology,10/05/2023,10/19/2023,,,Research
+https://careers.umich.edu/job_detail/240434/,240434,Epic Technical Specialist (Senior/Intermediate),Michigan Medicine - Ann Arbor,Regular,MM HITS ETS InfraSvcs-MiChart,10/09/2023,10/23/2023,,,Information Technology
+https://careers.umich.edu/job_detail/238762/,238762,Financial or Bus Analyst Inter,Ann Arbor Campus,Regular,MM Surgery Department,8/23/2023,10/22/2023,,,Finance
+https://careers.umich.edu/job_detail/240241/,240241,Technical Content Designer,Ann Arbor Campus,Regular,School of Information,10/06/2023,10/20/2023,"$30,000.00","$35,000.00",Human Resources
+https://careers.umich.edu/job_detail/240894/,240894,Financial or Bus Analyst Sr,Ann Arbor Campus,Regular,Executive Business Services,10/17/2023,10/31/2023,"$82,000.00","$102,000.00",Finance
+https://careers.umich.edu/job_detail/240677/,240677,RESEARCH FELLOW,Ann Arbor Campus,Regular,PHARMACY Clinical Pharmacy,10/13/2023,12/07/2023,,,Research Fellows
+https://careers.umich.edu/job_detail/240822/,240822,Technology Experience Specialist Associate,Ann Arbor Campus,Regular,LSA Dean: TS Support Services,10/16/2023,10/30/2023,"$37,000.00","$39,500.00",Information Technology
+https://careers.umich.edu/job_detail/240261/,240261,Tutor II (STUDENT/WORKSTUDY),Flint Campus,Temporary,Flint Student Success Center,10/02/2023,1/09/2024,$15.00,$15.00,Temporary Job Opening
+https://careers.umich.edu/job_detail/240346/,240346,Network Architect Intermediate,Michigan Medicine - Ann Arbor,Regular,MM HITS EI Netwrk & Comm Suppt,10/04/2023,10/18/2023,,,Information Technology
+https://careers.umich.edu/job_detail/239344/,239344,Director of Data Science Practice,Ann Arbor Campus,Regular,ITS DSP Data Science Practice,9/11/2023,10/26/2023,,,Information Technology
+https://careers.umich.edu/job_detail/240670/,240670,Clinical Info Analyst Assoc,Michigan Medicine - Ann Arbor,Regular,MM BMT Inpatient NP/PA,10/12/2023,11/12/2023,,,Healthcare Admin & Support
+https://careers.umich.edu/job_detail/240753/,240753,GSI Winter 2024 - Math 628,Ann Arbor Campus,Regular,LSA Mathematics,10/13/2023,10/27/2023,,,Graduate Students;Graduate Student Instructors (GEO)
+https://careers.umich.edu/job_detail/240282/,240282,Applications Programmer/Analyst,Ann Arbor Campus,Regular,Library Info Tech-Dig Lib Apps,10/03/2023,10/24/2023,"$74,000.00","$83,000.00",Information Technology
